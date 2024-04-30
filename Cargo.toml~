@@ -6,7 +6,7 @@ edition = "2021"
 license = "Apache-2.0"
 homepage = "https://powx.ai"
 documentation = "https://doc.powx.ai"
-repository = "https://github.com/powx-sol/powx"
+repository = "hhttps://github.com/powx-sol/powx"
 readme = "./README.md"
 keywords = ["solana", "crypto", "mining"]
 
